@@ -28,7 +28,7 @@
 The game can use for learning game such the player need to remember words so he put them in the files and every time he need go guess the word and in this situation he learn very good how to write the words.
 </div>
 
-<a href="https://shaykeshok.itch.io/hangman" target=_blank">link to the game</a> in itch.io
+<a href="https://shaykeshok.itch.io/hangman" target="_blank">link to the game</a> in itch.io
                                                            
 <h3>Images from the game</h3>
 <img src="https://github.com/shaykeshok/unity-Ex3/blob/master/images/Capture1.PNG" width="400px" height="200px">
